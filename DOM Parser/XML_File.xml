@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<Assignment3>
+  <exam>
+    <eno>3</eno>
+    <etitle>History</etitle>
+    <timeAllowed>10</timeAllowed>
+    <numberOfQuestionsPerPage>3</numberOfQuestionsPerPage>
+  </exam>
+  <question>
+    <eno>3</eno>
+    <qno>1</qno>
+    <qtext>The Battle of Gettysburg was fought during which war?</qtext>
+    <correctAnswer>C</correctAnswer>
+  </question>
+  <question>
+    <eno>3</eno>
+    <qno>2</qno>
+    <qtext>Neil Armstrong and Buzz Aldrin walked how many 
+minutes on the moon in 1696?</qtext>
+    <correctAnswer>B</correctAnswer>
+  </question>
+  <question>
+    <eno>3</eno>
+    <qno>3</qno>
+    <qtext>Which Presidents held office during World War II?</qtext>
+    <correctAnswer>D</correctAnswer>
+  </question>
+  <question>
+    <eno>3</eno>
+    <qno>4</qno>
+    <qtext>In a communist economic system, people:</qtext>
+    <correctAnswer>B</correctAnswer>
+  </question>
+  <question>
+    <eno>3</eno>
+    <qno>5</qno>
+    <qtext>Which president did not die while in office?</qtext>
+    <correctAnswer>D</correctAnswer>
+  </question>
+  <question>
+    <eno>3</eno>
+    <qno>6</qno>
+    <qtext>Which state refused to attend the Constitutional Convention in1787 because it didn''t want the United States government to  interfere with already established state affairs?</qtext>
+    <correctAnswer>A</correctAnswer>
+  </question>
+  <question>
+    <eno>3</eno>
+    <qno>7</qno>
+    <qtext>Who founded Buddhism?</qtext>
+    <correctAnswer>A</correctAnswer>
+  </question>
+  <question>
+    <eno>3</eno>
+    <qno>8</qno>
+    <qtext>Where is India?</qtext>
+    <correctAnswer>D</correctAnswer>
+  </question>
+  <question>
+    <eno>3</eno>
+    <qno>9</qno>
+    <qtext>What is the dominant religion in India?</qtext>
+    <correctAnswer>B</correctAnswer>
+  </question>
+  <question>
+    <eno>3</eno>
+    <qno>10</qno>
+    <qtext>Near which river did archaeologists find India''s first civilization?</qtext>
+    <correctAnswer>B</correctAnswer>
+  </question>
+  <answeroption>
+    <eno>3</eno>
+    <qno>1</qno>
+    <ono>A</ono>
+    <optionText>World War II</optionText>
+  </answeroption>
+  <answeroption>
+    <eno>3</eno>
+    <qno>1</qno>
+    <ono>B</ono>
+    <optionText>The Revolutionary War</optionText>
+  </answeroption>
+  <answeroption>
+    <eno>3</eno>
+    <qno>1</qno>
+    <ono>C</ono>
+    <optionText>The Civil War</optionText>
+  </answeroption>
+  <answeroption>
+    <eno>3</eno>
+    <qno>1</qno>
+    <ono>D</ono>
+    <optionText>World War I</optionText>
+  </answeroption>
+  <answeroption>
+    <eno>3</eno>
+    <qno>2</qno>
+    <ono>A</ono>
+    <optionText>123</optionText>
+  </answeroption>
+  <answeroption>
+    <eno>3</eno>
+    <qno>2</qno>
+    <ono>B</ono>
+    <optionText>None</optionText>
+  </answeroption>
+  <answeroption>
+    <eno>3</eno>
+    <qno>2</qno>
+    <ono>C</ono>
+    <optionText>10</optionText>
+  </answeroption>
+  <answeroption>
+    <eno>3</eno>
+    <qno>2</qno>
+    <ono>D</ono>
+    <optionText>51</optionText>
+  </answeroption>
+  <answeroption>
+    <eno>3</eno>
+    <qno>3</qno>
+    <ono>A</ono>
+    <optionText>Franklin D. Roosevelt</optionText>
+  </answeroption>
+  <answeroption>
+    <eno>3</eno>
+    <qno>3</qno>
+    <ono>B</ono>
+    <optionText>Dwight D. Eisenhower</optionText>
+  </answeroption>
+  <answeroption>
+    <eno>3</eno>
+    <qno>3</qno>
+    <ono>C</ono>
+    <optionText>Harry Truman</optionText>
+  </answeroption>
+  <answeroption>
+    <eno>3</eno>
+    <qno>3</qno>
+    <ono>D</ono>
+    <optionText>Both A and C</optionText>
+  </answeroption>
+  <answeroption>
+    <eno>3</eno>
+    <qno>4</qno>
+    <ono>A</ono>
+    <optionText>Are forced to work as slaves</optionText>
+  </answeroption>
+  <answeroption>
+    <eno>3</eno>
+    <qno>4</qno>
+    <ono>B</ono>
+    <optionText>Work for the common good</optionText>
+  </answeroption>
+  <answeroption>
+    <eno>3</eno>
+    <qno>4</qno>
+    <ono>C</ono>
+    <optionText>Work from home computers</optionText>
+  </answeroption>
+  <answeroption>
+    <eno>3</eno>
+    <qno>4</qno>
+    <ono>D</ono>
+    <optionText>Do not  work</optionText>
+  </answeroption>
+  <answeroption>
+    <eno>3</eno>
+    <qno>5</qno>
+    <ono>A</ono>
+    <optionText>John F. Kennedy</optionText>
+  </answeroption>
+  <answeroption>
+    <eno>3</eno>
+    <qno>5</qno>
+    <ono>B</ono>
+    <optionText>Franklin D. Roosevelt</optionText>
+  </answeroption>
+  <answeroption>
+    <eno>3</eno>
+    <qno>5</qno>
+    <ono>C</ono>
+    <optionText>Abraham Lincoln</optionText>
+  </answeroption>
+  <answeroption>
+    <eno>3</eno>
+    <qno>5</qno>
+    <ono>D</ono>
+    <optionText>Ronald Reagan</optionText>
+  </answeroption>
+  <answeroption>
+    <eno>3</eno>
+    <qno>5</qno>
+    <ono>E</ono>
+    <optionText>James A. Garfield</optionText>
+  </answeroption>
+  <answeroption>
+    <eno>3</eno>
+    <qno>6</qno>
+    <ono>A</ono>
+    <optionText>Rhode Island</optionText>
+  </answeroption>
+  <answeroption>
+    <eno>3</eno>
+    <qno>6</qno>
+    <ono>B</ono>
+    <optionText>New Hampshire</optionText>
+  </answeroption>
+  <answeroption>
+    <eno>3</eno>
+    <qno>6</qno>
+    <ono>C</ono>
+    <optionText>New Jersey</optionText>
+  </answeroption>
+  <answeroption>
+    <eno>3</eno>
+    <qno>6</qno>
+    <ono>D</ono>
+    <optionText>New York</optionText>
+  </answeroption>
+  <answeroption>
+    <eno>3</eno>
+    <qno>7</qno>
+    <ono>A</ono>
+    <optionText>Siddharta Gautama</optionText>
+  </answeroption>
+  <answeroption>
+    <eno>3</eno>
+    <qno>7</qno>
+    <ono>B</ono>
+    <optionText>Jesus Christ</optionText>
+  </answeroption>
+  <answeroption>
+    <eno>3</eno>
+    <qno>7</qno>
+    <ono>C</ono>
+    <optionText>Mahatma Gandhi</optionText>
+  </answeroption>
+  <answeroption>
+    <eno>3</eno>
+    <qno>7</qno>
+    <ono>D</ono>
+    <optionText>Muhammad</optionText>
+  </answeroption>
+  <answeroption>
+    <eno>3</eno>
+    <qno>8</qno>
+    <ono>A</ono>
+    <optionText>Australia</optionText>
+  </answeroption>
+  <answeroption>
+    <eno>3</eno>
+    <qno>8</qno>
+    <ono>B</ono>
+    <optionText>America</optionText>
+  </answeroption>
+  <answeroption>
+    <eno>3</eno>
+    <qno>8</qno>
+    <ono>C</ono>
+    <optionText>Africa</optionText>
+  </answeroption>
+  <answeroption>
+    <eno>3</eno>
+    <qno>8</qno>
+    <ono>D</ono>
+    <optionText>Asia</optionText>
+  </answeroption>
+  <answeroption>
+    <eno>3</eno>
+    <qno>9</qno>
+    <ono>A</ono>
+    <optionText>Islam</optionText>
+  </answeroption>
+  <answeroption>
+    <eno>3</eno>
+    <qno>9</qno>
+    <ono>B</ono>
+    <optionText>Hinduism</optionText>
+  </answeroption>
+  <answeroption>
+    <eno>3</eno>
+    <qno>9</qno>
+    <ono>C</ono>
+    <optionText>Christianity</optionText>
+  </answeroption>
+  <answeroption>
+    <eno>3</eno>
+    <qno>9</qno>
+    <ono>D</ono>
+    <optionText>Buddhism</optionText>
+  </answeroption>
+  <answeroption>
+    <eno>3</eno>
+    <qno>10</qno>
+    <ono>A</ono>
+    <optionText>The Tiber River</optionText>
+  </answeroption>
+  <answeroption>
+    <eno>3</eno>
+    <qno>10</qno>
+    <ono>B</ono>
+    <optionText>The Indus River</optionText>
+  </answeroption>
+  <answeroption>
+    <eno>3</eno>
+    <qno>10</qno>
+    <ono>C</ono>
+    <optionText>The Yellow River</optionText>
+  </answeroption>
+  <answeroption>
+    <eno>3</eno>
+    <qno>10</qno>
+    <ono>D</ono>
+    <optionText>The Nile River</optionText>
+  </answeroption>
+</Assignment3>
+

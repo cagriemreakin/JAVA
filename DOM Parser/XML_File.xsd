@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xsd:schema attributeFormDefault="unqualified" elementFormDefault="qualified" version="1.0" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <xsd:element name="Assignment3">
+    <xsd:complexType>
+      <xsd:sequence>
+        <xsd:element name="exam">
+          <xsd:complexType>
+            <xsd:sequence>
+              <xsd:element name="eno" type="xsd:int" />
+              <xsd:element name="etitle" type="xsd:string" />
+              <xsd:element name="timeAllowed" type="xsd:int" />
+              <xsd:element name="numberOfQuestionsPerPage" type="xsd:int" />
+            </xsd:sequence>
+          </xsd:complexType>
+        </xsd:element>
+        <xsd:element maxOccurs="unbounded" name="question">
+          <xsd:complexType>
+            <xsd:sequence>
+              <xsd:element name="eno" type="xsd:int" />
+              <xsd:element name="qno" type="xsd:int" />
+              <xsd:element name="qtext" type="xsd:string" />
+              <xsd:element name="correctAnswer" type="xsd:string" />
+            </xsd:sequence>
+          </xsd:complexType>
+        </xsd:element>
+        <xsd:element maxOccurs="unbounded" name="answeroption">
+          <xsd:complexType>
+            <xsd:sequence>
+              <xsd:element name="eno" type="xsd:int" />
+              <xsd:element name="qno" type="xsd:int" />
+              <xsd:element name="ono" type="xsd:string" />
+              <xsd:element name="optionText" type="xsd:string" />
+            </xsd:sequence>
+          </xsd:complexType>
+        </xsd:element>
+      </xsd:sequence>
+    </xsd:complexType>
+  </xsd:element>
+</xsd:schema>
